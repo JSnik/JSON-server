@@ -21,7 +21,7 @@
           "address": "gorkis N1"
         }
       ],
-      "img": "",
+      "img": ""
     },
     {
       "client_id": 2,
@@ -44,7 +44,7 @@
           "address": "gorkis N2"
         }
       ],
-      "img": "",
+      "img": ""
     },
     {
       "client_id": 3,
@@ -67,7 +67,7 @@
           "address": "gorkis N3"
         }
       ],
-      "img": "",
+      "img": ""
     },
     {
       "client_id": 4,
@@ -90,7 +90,7 @@
           "address": "gorkis N5"
         }
       ],
-      "img": "",
+      "img": ""
     }
   ],
   "client_money": [
@@ -110,17 +110,17 @@
     },
     {
       "money_id": 3,
-      "client_id": 3
+      "client_id": 3,
       "money_type":  "მიმდინარე",
       "valute": "GEL",
       "money_status": "აქტიური"
     },
     {
-      "money_id": 4,
+      "money_id": 5,
       "client_id": 4,
       "money_type":  "მიმდინარე",
       "valute": "GEL",
       "money_status": "აქტიური"
     }
-  ],
+  ]
 }
